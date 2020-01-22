@@ -5,22 +5,22 @@ title: "Data, Inference, and Decisions"
 
 <!-- # DS102: Data, Inference, and Decisions -->
 
-This course develops the probabilistic foundations of inference in data science, and builds a comprehensive view of the modeling and decision-making life cycle in data science including its human, social, and ethical implications. Topics include: frequentist and Bayesian decision-making, permutation testing, false discovery rate, probabilistic interpretations of models, Bayesian hierarchical models, basics of experimental design, confidence intervals, causal inference, Thompson sampling, optimal control, Q-learning, differential privacy, clustering algorithms, recommendation systems and an introduction to machine learning tools including decision trees, neural networks and ensemble methods.
+This course develops the probabilistic foundations of inference in data science, and builds a comprehensive view of the modeling and decision-making life cycle in data science including its human, social, and ethical implications. Topics include: frequentist and Bayesian decision-making, permutation testing, false discovery rate, probabilistic interpretations of models, Bayesian hierarchical models, basics of experimental design, confidence intervals, causal inference, robustness, Thompson sampling, optimal control, Q-learning, differential privacy, fairness in classification, recommendation systems and an introduction to machine learning tools including decision trees, neural networks and ensemble methods.
 
-This class is listed as [STAT 102](https://classes.berkeley.edu/content/2019-fall-stat-102-001-lec-001).
+This class is listed as [STAT 102](https://classes.berkeley.edu/content/2020-spring-stat-102-001-lec-001).
 
 ## Important Information:
 
-* **When:** Lectures Tuesdays and Thursdays from 2:00PM to 3:30PM
-* **Where:** [306 Soda](http://www.berkeley.edu/map?soda)
+* **When:** Lectures Tuesdays and Thursdays from 9:30AM to 11:00AM
+* **Where:** [100 Lewis](https://www.berkeley.edu/map?lewis)
 * **What:** See the [lecture schedule](syllabus)
-* **News:** We will post updates about the class on [Piazza](https://piazza.com/class/jzud9j0ubp85s2)
+* **News:** We will post updates about the class on [Piazza](https://piazza.com/class/k5ofad3nps24c1)
 
 ## Lab, Section, and Office Hours Schedules
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1X2VrMTVydXNnOXVkMXA4NG5lbHJmZnZmaGlzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23C0CA33&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-For official holidays see the [academic calendar](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2018-19_V2.pdf).
+For official holidays see the [academic calendar](https://registrar.berkeley.edu/calendar).
 
 
 ## Prerequisites
@@ -40,9 +40,6 @@ While we are working to make this class widely accessible we currently require t
 
 {% include instructor_entries.html %}
 
-## Additional Instructors
-
-{% include additional_instructor_entries.html %}
 
 ## TAs
 

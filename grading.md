@@ -10,25 +10,13 @@ There will be 1 challenging project and 6 to 7 homework assignments. Assignments
 - 20% Midterm
 - 35% Final
 
-(The midterm will tentatively be in class on October 17th. The final exam will be December 17th 8:00am - 11:00am.)
+(The midterm will tentatively be in class on March 19th. The final exam will be Wed May 13th 11:30am - 2:30pm.)
 
 ### Slip Days
-- 5 days of slip time you can use on homeworks or projects.
-- One minute late = one slip day.
-- After you use slip days, 20% off per day.
-- Intended to cover unforeseen circumstances.
+Each student gets an extension budget of 5 slip days. You can use the extension on homework and project assignments during the semester. Do not plan to use your slip-time; it is there for unforeseen circumstances. These are rounded up, so if you are 1 minute late then 1 slip day will be used.
 
+After you have used your slip-time budget, any assignment handed in late will be marked off 20% per day late, rounded up to the nearest integer of number of days. No assignment will be accepted more than 5 days late.
 
-### On Time Policy (try not to be late)
-
-Each student gets an extension budget of 5 slip days. You can use the extension
-on homework and project assignments during the semester. Do not plan to use
-your slip-time; it is there for unforeseen circumstances! These are rounded up, so if you are
-1 minute late then 1 slip day will be used.
-
-After you have used up your slip-time budget, any assignment handed in late
-will be marked off 20% per day late, rounded up to the nearest integer number
-of days. No assignment will be accepted more than 5 days late.
 
 ### Collaboration Policy (don't cheat)
 

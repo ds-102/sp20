@@ -1,28 +1,35 @@
-- email: karlk@berkeley.edu
-  image: https://www.karlk.net/img/karl.png
+- email: akosua@berkeley.edu 
+  image: http://akosuabusia.com/images/akosua_wide.jpg
   oh_info:
-  - "Disc: W 1-2 (Hildebrand B51)"
-  - "Lab: M 1-2 (Evans 342)"
-  - "OH: M 5-6 (Evans 446)"
-  name: Karl Krauth
-- email: mazumdar@berkeley.edu
-  image: https://media.licdn.com/dms/image/C5603AQFF4wvYZcfX9A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=dRiocMgWf_EwaSk44B6VFOI6JTzaWZAk_q1Y4Oqyq-U 
+  - "Disc: M 9-10 (Evans 344)"
+  - "Lab: W 9-10 (Evans 344)"
+  - "OH: Tu 11-12 (TBD)"
+  name: Akosua Busia
+- email: ashleychien@berkeley.edu
+  image: https://inst.eecs.berkeley.edu/~cs61a/fa17/assets/images/ashley-chien.jpg 
   oh_info:
-  - "Disc: W 9-10 (Evans 342)"
-  - "Lab: M 9-10 (Evans 342)"
-  - "OH: Th 11-12 (Evans 446)"
-  name: Eric Mazumdar
-- email: esther_rolf@berkeley.edu
-  image: https://people.eecs.berkeley.edu/~erolf/images/esther_2019_cropped.jpg
+  - "Disc: M 12-1 and 1-2 (Evans 344)"
+  - "Lab: W 12-1 and 1-2 (Evans 344)"
+  - "OH: Fr 11-12 (TBD)"
+  name: Ashley Chien
+- email: clarafy@berkeley.edu
+  image: https://people.eecs.berkeley.edu/~clarafy/paragon.jpg
   oh_info:
-  - "Disc: W 10-11 (Evans 342)"
-  - "Lab: M 10-11 (Evans 342)"
-  - "OH: M 11-12 (Evans 342)"
-  name: Esther Rolf
-- email: tijana.zrnic@berkeley.edu
-  image: https://people.eecs.berkeley.edu/~tijana/me.jpg
+  - "Disc: M 11-12 (Evans 344)"
+  - "Lab: W 10-11 (Evans 344)"
+  - "OH: M 12:30-1:30 (TBD)"
+  name: Clara Fannjiang
+- email: wenshuo_guo@berkeley.edu
+  image: https://i.imgur.com/pErEvk4.jpg?2
   oh_info:
-  - "Disc: W 12-1 (Hildebrand B51)"
-  - "Lab: M 12-1 (Evans 342)"
-  - "OH: F 17:00-18:00 (Evans 446)"
-  name: Tijana Zrnic
+  - "Disc: M 2-3 (Evans 344)"
+  - "Lab: W 11-12 (Evans 344)"
+  - "OH: Th 3-4 (TBD)"
+  name: Wenshuo Guo
+- email: serenalwang@berkeley.edu
+  image: http://www-inst.eecs.berkeley.edu/~wicse/content/images/contact/contact_SerenaWang.jpg
+  oh_info:
+  - "Disc: M 10-11 (Evans 344)"
+  - "Lab: W 2-3 (Evans 344)"
+  - "OH: W 1-2 (TBD)"
+  name: Serena Wang
