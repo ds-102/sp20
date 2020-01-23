@@ -198,11 +198,11 @@
   discussion: |
     - Disc8
  
- - date: 4/2/20
-   topic: Introduction to LQR and Control
-   homework: |
-     - HW5 due
-     - Project1 released
+- date: 4/2/20
+  topic: Introduction to LQR and Control
+  homework: |
+    - HW5 due
+    - Project1 released
 
 - date: 4/7/20
   topic: Economics
@@ -223,8 +223,8 @@
 - date: 4/16/20
   topic: Generalization, Robustness, and Distribution Shift
   homework: |
-          - Project1 due
-          - Project2 released
+    - Project1 due
+    - Project2 released
 
 - date: 4/21/20
 #  slides: assets/lectures/lecture23.pdf
