@@ -9,7 +9,7 @@ This course develops the probabilistic foundations of inference in data science,
 
 This class is listed as [STAT 102](https://classes.berkeley.edu/content/2020-spring-stat-102-001-lec-001).
 
-## Important Information:
+## Important Information: 
 
 * **When:** Lectures Tuesdays and Thursdays from 9:30AM to 11:00AM
 * **Where:** [100 Lewis](https://www.berkeley.edu/map?lewis)
