@@ -168,7 +168,7 @@
 
 - date: 3/12/20
 #  slides: assets/lectures/lecture16.pdf
-  topic: Bandits: Greedy and UCB Algorithms
+  topic: "Bandits: Greedy and UCB Algorithms"
 #  resources: |
 #    - [**Notes**](assets/notes/notes16.pdf)
   lab: |
