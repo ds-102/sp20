@@ -27,7 +27,6 @@
 # for d in days[(days.dayofweek == 1) | (days.dayofweek == 3)]:
 #     print(str(d.month) + "/" + str(d.day) + "/" + str(d.year))
 
-- date: 
 - date: 1/21/20
   topic: Course Overview, Making Decisions Under Uncertainty
   description: In this lecture we provide an overview of data science and where it might head in the future.
