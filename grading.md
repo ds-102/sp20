@@ -3,14 +3,13 @@ layout: page
 title: "Grading"
 ---
 
-There will be 1 challenging project and 6 to 7 homework assignments. Assignments will mix programming and short answer questions. Lab assignments will be graded on completion and correctness, but all test cases will be public. Your two lowest labs will be dropped.
+There will be 7 homework assignments. Assignments will mix programming and short answer questions. Lab assignments will be graded on completion and correctness, but all test cases will be public. Your two lowest labs will be dropped.
 
-- 30% homeworks and labs (20% homework, 10% labs)
-- 15% Project
-- 20% Midterm
-- 35% Final
-
+40% homeworks and labs (25% homework, 15% labs)
+25% Midterm
+35% Final
 (The midterm will tentatively be in class on March 19th. The final exam will be Wed May 13th 11:30am - 2:30pm.)
+
 
 ### Slip Days
 Each student gets an extension budget of 5 slip days. You can use the extension on homework and project assignments during the semester. Do not plan to use your slip-time; it is there for unforeseen circumstances. These are rounded up, so if you are 1 minute late then 1 slip day will be used.
