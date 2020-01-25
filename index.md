@@ -18,7 +18,7 @@ This class is listed as [STAT 102](https://classes.berkeley.edu/content/2020-spr
 
 ## Lab, Section, and Office Hours Schedules
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=YmVya2VsZXkuZWR1X2VrMTVydXNnOXVkMXA4NG5lbHJmZnZmaGlzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23C0CA33&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=berkeley.edu_j925o99uns4c0dmr73rief7274&amp;color=%23C0CA33&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 For official holidays see the [academic calendar](https://registrar.berkeley.edu/calendar).
 
