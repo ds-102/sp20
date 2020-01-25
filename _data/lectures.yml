@@ -49,10 +49,11 @@
 #    - [**Notes**](assets/notes/notes02.pdf)
 #  discussion: |
 #    - [Disc1](https://github.com/ds-102/fa19/blob/master/disc/disc01.pdf)
-  homework: |
-    - HW1 released
+
 - date: 1/28/20
   topic: Permutation Tests
+  homework: |
+    - HW1 released
 
 - date: 1/30/20
   topic: False Discovery Rate Control
@@ -65,9 +66,6 @@
 #  slides: assets/lectures/lecture3.pdf
   discussion: Disc1
   lab: Lab1
-  homework: |
-    - HW1 due
-    - HW2 released
 
 - date: 2/4/20
   topic: Online FDR
@@ -87,6 +85,9 @@
 
 - date: 2/11/20
   topic: Probability Interpretation of Logistic Models
+  homework: |
+    - HW1 due
+    - HW2 released
 #  slides: assets/lectures/lecture7.pdf
 #  resources: |
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture07/lecture07.ipynb)
@@ -94,9 +95,7 @@
 
 - date: 2/13/20
   topic: Bayesian Hierarchical Models I
-  homework: |
-    - HW2 due
-    - HW3 released
+
 #  resources: |
 #    - [**Notes**](assets/notes/notes08.pdf)
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture08/lecture08.ipynb)
@@ -128,6 +127,9 @@
 
 - date: 2/25/20
   topic: Confidence Intervals from Chernoff/Hoeffding
+  homework: |
+    - HW2 due
+    - HW3 released
 #  resources: |
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture12/lecture12.ipynb)
 
@@ -137,9 +139,7 @@
     - Lab5
   discussion: |
     - Disc5
-  homework: |
-    - HW3 due
-    - HW4 released
+
 
 - date: 3/3/20
 #  lab: |
@@ -162,6 +162,9 @@
 - date: 3/10/20
 #  slides: assets/lectures/lecture15.pdf
   topic: Rudiments of Experimental Design
+  homework: |
+    - HW3 due
+    - HW4 released
 #  resources: |
 #    - [**Notes**](assets/notes/notes15.pdf)
 
@@ -172,9 +175,6 @@
 #    - [**Notes**](assets/notes/notes16.pdf)
   lab: |
     - Lab7
-  homework: |
-    - HW4 due
-    - HW5 released
 
 - date: 3/17/20
   topic: Thompson Sampling
@@ -196,12 +196,12 @@
     - Lab8
   discussion: |
     - Disc8
+  homework: |
+    - HW4 due
+    - HW5 released
  
 - date: 4/2/20
   topic: Introduction to LQR and Control
-  homework: |
-    - HW5 due
-    - Project1 released
 
 - date: 4/7/20
   topic: Economics
@@ -218,12 +218,12 @@
   discussion: |
     - Lab9 extension
   topic: "Nonparametric Methods II: Neural Nets"
+  homework: |
+    - HW5 due
+    - HW6 released
 
 - date: 4/16/20
   topic: Generalization, Robustness, and Distribution Shift
-  homework: |
-    - Project1 due
-    - Project2 released
 
 - date: 4/21/20
 #  slides: assets/lectures/lecture23.pdf
@@ -240,6 +240,8 @@
 - date: 4/28/20
   lab: |
     - HW OH
+  homework: |
+    - HW6 due
 
 - date: 4/30/20
   topic: TBD
