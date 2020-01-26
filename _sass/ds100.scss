@@ -300,7 +300,7 @@ ul {
     border-bottom: 5px solid $data-blue;
   }
 
-  .lecture:nth-child(even) {
+  .lecture:nth-child(odd) {
     border-top: 5px solid $data-blue;
     background-color: #eee;
   }
