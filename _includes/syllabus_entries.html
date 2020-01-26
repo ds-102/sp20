@@ -3,16 +3,16 @@
 {% for lecture in site.data.lectures %}
 
   <!-- Use this block if starting lecture date is week begin -->
-  {% comment %}
   {% assign is_week_begin = lecture_counter | plus: 1 | modulo: 2 %}
   {% assign week = lecture_counter | divided_by: 2.0 | ceil %}
   {% assign is_off_week = false %}
-  {% endcomment %}
 
   <!-- Use this block if starting lecture data is not week begin -->
+  {% comment %}
   {% assign is_week_begin = lecture_counter | modulo: 2 %}
   {% assign week = lecture_counter | plus: 1 | divided_by: 2.0 | ceil %}
   {% assign is_off_week = true %}
+  {% endcomment %}
 
   <tr class="lecture"
       data-lecture-week="{{ week }}"
