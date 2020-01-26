@@ -182,6 +182,8 @@
 
 - date: 3/17/20
   topic: Thompson Sampling
+  discussion: |
+    Disc 8
  
 - date: 3/19/20
   topic: Midterm
@@ -194,31 +196,29 @@
 
 - date: 3/31/20
   topic: Dynamic Programming and Q Learning
-  lab: |
-    - Lab 8
-  discussion: |
-    - Disc 8
   homework: |
     - HW 4 due
     - HW 5 released
  
 - date: 4/2/20
   topic: Introduction to LQR and Control
+  lab: |
+    - Lab 9
+  discussion: |
+    - Disc 9
 
 - date: 4/7/20
   topic: Economics
-  discussion: |
-    - Disc 9
 
 - date: 4/9/20
 #  slides: assets/lectures/lecture21.pdf
   topic: "Nonparametric Methods I: Overview"
+  lab: |
+    - Lab 10
+  discussion: |
+    - Disc 10
 
 - date: 4/14/20
-  lab: |
-    - Lab 9
-  discussion: |
-    - Lab 9 extension
   topic: "Nonparametric Methods II: Neural Nets"
   homework: |
     - HW 5 due
@@ -226,22 +226,26 @@
 
 - date: 4/16/20
   topic: Generalization, Robustness, and Distribution Shift
+  lab: |
+    - Lab 11
+  discussion: |
+    - Disc 11
 
 - date: 4/21/20
 #  slides: assets/lectures/lecture23.pdf
 #  resources: |
 #    - [**Notes**](assets/notes/notes23.pdf)
   topic: Privacy attacks and randomized response
-  lab: |
-    - Lab 10
+
 
 - date: 4/23/20
   topic: Differential Privacy
-  discussion: Lab10 extension
+  lab: |
+    - Lab 12
+  discussion: |
+    - Disc 12
 
 - date: 4/28/20
-  lab: |
-    - HW OH
   homework: |
     - HW 6 due
 
