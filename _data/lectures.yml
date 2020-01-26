@@ -53,7 +53,7 @@
 - date: 1/28/20
   topic: Permutation Tests
   homework: |
-    - HW1 released
+    - HW 1 released
 
 - date: 1/30/20
   topic: False Discovery Rate Control
@@ -64,8 +64,10 @@
     basic hypothesis testing. We consider the Bonferroni test which is a naive way of controlling the family-wise error rate. We then look into
     Benjamini-Hochberg which is a more elaborate method that controls the false discovery rate.
 #  slides: assets/lectures/lecture3.pdf
-  discussion: Disc1
-  lab: Lab1
+  discussion: |
+    - Disc 1
+  lab: |
+    - Lab 1
 
 - date: 2/4/20
   topic: Online FDR
@@ -76,18 +78,18 @@
 - date: 2/6/20
   topic: Probability Interpretation of Linear and Gaussian Models
   lab: |
-    - Lab2
+    - Lab 2
 #  slides: assets/lectures/lecture6.pdf
   discussion: |
-    - Disc2
+    - Disc 2
 #  resources: |
 #    - [**Notes**](assets/notes/notes06.pdf)
 
 - date: 2/11/20
   topic: Probability Interpretation of Logistic Models
   homework: |
-    - HW1 due
-    - HW2 released
+    - HW 1 due
+    - HW 2 released
 #  slides: assets/lectures/lecture7.pdf
 #  resources: |
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture07/lecture07.ipynb)
@@ -100,9 +102,9 @@
 #    - [**Notes**](assets/notes/notes08.pdf)
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture08/lecture08.ipynb)
   discussion: |
-    - Disc3
+    - Disc 3
   lab: |
-    - Lab3
+    - Lab 3
 
 - date: 2/18/20
   topic: Bayesian Hierarchical Models II
@@ -115,9 +117,9 @@
 #    - [**Notes**](assets/notes/notes10.pdf)
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture10/lecture10.ipynb)
   lab: |
-    - Lab4
+    - Lab 4
   discussion: |
-    - Disc4
+    - Disc 4
 
 #- date: 10/3/19
 #  topic: Intervals for Estimation (Confidence and Credible)
@@ -128,17 +130,17 @@
 - date: 2/25/20
   topic: Confidence Intervals from Chernoff/Hoeffding
   homework: |
-    - HW2 due
-    - HW3 released
+    - HW 2 due
+    - HW 3 released
 #  resources: |
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture12/lecture12.ipynb)
 
 - date: 2/27/20
   topic: Confidence/Credible Intervals from Likelihood/Prior/Bootstrap
   lab: |
-    - Lab5
+    - Lab 5
   discussion: |
-    - Disc5
+    - Disc 5
 
 
 - date: 3/3/20
@@ -155,16 +157,16 @@
 #    - [**Notes**](assets/notes/notes14.pdf)
   topic: Causal Inference II
   lab: |
-    - Lab6
+    - Lab 6
   discussion: |
-    - Disc6
+    - Disc 6
 
 - date: 3/10/20
 #  slides: assets/lectures/lecture15.pdf
   topic: Rudiments of Experimental Design
   homework: |
-    - HW3 due
-    - HW4 released
+    - HW 3 due
+    - HW 4 released
 #  resources: |
 #    - [**Notes**](assets/notes/notes15.pdf)
 
@@ -174,12 +176,12 @@
 #  resources: |
 #    - [**Notes**](assets/notes/notes16.pdf)
   lab: |
-    - Lab7
+    - Lab 7
+  discussion: |
+    - Disc 7
 
 - date: 3/17/20
   topic: Thompson Sampling
-  discussion: |
-    - Disc7
  
 - date: 3/19/20
   topic: Midterm
@@ -193,12 +195,12 @@
 - date: 3/31/20
   topic: Dynamic Programming and Q Learning
   lab: |
-    - Lab8
+    - Lab 8
   discussion: |
-    - Disc8
+    - Disc 8
   homework: |
-    - HW4 due
-    - HW5 released
+    - HW 4 due
+    - HW 5 released
  
 - date: 4/2/20
   topic: Introduction to LQR and Control
@@ -206,7 +208,7 @@
 - date: 4/7/20
   topic: Economics
   discussion: |
-    - Disc9
+    - Disc 9
 
 - date: 4/9/20
 #  slides: assets/lectures/lecture21.pdf
@@ -214,13 +216,13 @@
 
 - date: 4/14/20
   lab: |
-    - Lab9
+    - Lab 9
   discussion: |
-    - Lab9 extension
+    - Lab 9 extension
   topic: "Nonparametric Methods II: Neural Nets"
   homework: |
-    - HW5 due
-    - HW6 released
+    - HW 5 due
+    - HW 6 released
 
 - date: 4/16/20
   topic: Generalization, Robustness, and Distribution Shift
@@ -231,7 +233,7 @@
 #    - [**Notes**](assets/notes/notes23.pdf)
   topic: Privacy attacks and randomized response
   lab: |
-    - Lab10
+    - Lab 10
 
 - date: 4/23/20
   topic: Differential Privacy
@@ -241,7 +243,7 @@
   lab: |
     - HW OH
   homework: |
-    - HW6 due
+    - HW 6 due
 
 - date: 4/30/20
   topic: TBD
