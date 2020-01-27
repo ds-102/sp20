@@ -51,9 +51,13 @@
 #    - [Disc1](https://github.com/ds-102/fa19/blob/master/disc/disc01.pdf)
 
 - date: 1/28/20
-  topic: Permutation Tests
+  topic: Neyman-Pearson Lemma
   homework: |
     - HW 1 released
+  discussion: |
+    - [Disc 1](https://github.com/ds-102/sp20/blob/master/disc/disc01.pdf)
+  lab: |
+    - Lab 1
 
 - date: 1/30/20
   topic: False Discovery Rate Control
@@ -64,10 +68,6 @@
     basic hypothesis testing. We consider the Bonferroni test which is a naive way of controlling the family-wise error rate. We then look into
     Benjamini-Hochberg which is a more elaborate method that controls the false discovery rate.
 #  slides: assets/lectures/lecture3.pdf
-  discussion: |
-    - [Disc 1](https://github.com/ds-102/sp20/blob/master/disc/disc01.pdf)
-  lab: |
-    - Lab 1
 
 - date: 2/4/20
   topic: Online FDR
