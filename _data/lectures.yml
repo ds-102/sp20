@@ -65,7 +65,7 @@
     Benjamini-Hochberg which is a more elaborate method that controls the false discovery rate.
 #  slides: assets/lectures/lecture3.pdf
   discussion: |
-    - Disc 1
+    - [Disc 1](https://github.com/ds-102/sp20/blob/master/disc/disc01.pdf)
   lab: |
     - Lab 1
 
