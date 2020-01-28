@@ -45,8 +45,8 @@
     We look at the difference between the frequentist and the Bayesian view of hypothesis testing. We further develop these ideas by
     introducing a decision-theoretic framework. Using this framework we can mathematically define both Bayesian and frequentist decision rules.
 #  slides: assets/lectures/lecture2.pdf
-#  resources: |
-#    - [**Notes**](assets/notes/notes02.pdf)
+  resources: |
+    - [**Notes**](assets/notes/notes02.pdf)
 #  discussion: |
 #    - [Disc1](https://github.com/ds-102/fa19/blob/master/disc/disc01.pdf)
 
@@ -56,6 +56,7 @@
     - HW 1 released
   discussion: |
     - [Disc 1](https://github.com/ds-102/sp20/blob/master/disc/disc01.pdf)
+    - [Disc 1 Sol](https://github.com/ds-102/sp20/blob/master/disc/disc01_sol.pdf)
   lab: |
     - Lab 1
 
