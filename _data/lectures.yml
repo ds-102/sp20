@@ -179,18 +179,20 @@
   topic: Midterm
 #  resources: |
 #    - [**Notes**](assets/notes/notes16.pdf)
+  lab: |
+    - Lab 7
   discussion: |
     - Disc 7
 
 - date: 3/17/20
   topic: "Bandits: Greedy and UCB Algorithms"
+
+- date: 3/19/20
+  topic: Thompson Sampling
   lab: |
     - Lab 8
   discussion: |
     - Disc 8
- 
-- date: 3/19/20
-  topic: Thompson Sampling
 
 - date: 3/23/20
   topic: Spring Break
