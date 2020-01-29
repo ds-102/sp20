@@ -74,7 +74,7 @@
 #  slides: assets/lectures/lecture3.pdf
 
 - date: 2/4/20
-  topic: Online FDR
+  topic: Fairness in decision-making
 #  slides: assets/lectures/lecture4.pdf
 #  resources: |
 #    - [**Notes**](assets/notes/notes04.pdf)
@@ -176,21 +176,21 @@
 
 - date: 3/12/20
 #  slides: assets/lectures/lecture16.pdf
-  topic: "Bandits: Greedy and UCB Algorithms"
+  topic: Midterm
 #  resources: |
 #    - [**Notes**](assets/notes/notes16.pdf)
-  lab: |
-    - Lab 7
   discussion: |
     - Disc 7
 
 - date: 3/17/20
-  topic: Thompson Sampling
+  topic: "Bandits: Greedy and UCB Algorithms"
+  lab: |
+    - Lab 8
   discussion: |
     - Disc 8
  
 - date: 3/19/20
-  topic: Midterm
+  topic: Thompson Sampling
 
 - date: 3/23/20
   topic: Spring Break
@@ -250,6 +250,7 @@
     - Disc 12
 
 - date: 4/28/20
+  topic: Real-World Consequences of Decisions
   homework: |
     - HW 6 due
 

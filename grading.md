@@ -8,7 +8,7 @@ There will be 7 homework assignments. Assignments will mix programming and short
 40% homeworks and labs (25% homework, 15% labs)
 25% Midterm
 35% Final
-(The midterm will tentatively be in class on March 19th. The final exam will be Wed May 13th 11:30am - 2:30pm.)
+(The midterm will tentatively be in class on Th March 12th. The final exam will be Wed May 13th 11:30am - 2:30pm.)
 
 
 ### Slip Days
