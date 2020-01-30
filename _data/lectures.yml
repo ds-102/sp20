@@ -65,6 +65,7 @@
 
 - date: 1/30/20
   topic: False Discovery Rate Control
+  slides: assets/lectures/lecture4.pdf
 #  resources: |
 #    - [**Notes**](assets/notes/notes03.pdf)
   description: In this lecture we continue developing our decision-theoretic framework. In particular we consider properties of the risk of
@@ -72,6 +73,9 @@
     basic hypothesis testing. We consider the Bonferroni test which is a naive way of controlling the family-wise error rate. We then look into
     Benjamini-Hochberg which is a more elaborate method that controls the false discovery rate.
 #  slides: assets/lectures/lecture3.pdf
+  resources: |
+    - [**Notes**](assets/notes/notes04.pdf)
+    - [**Optional Notes**](assets/notes/notes_online_FDR.pdf)
 
 - date: 2/4/20
   topic: Fairness in decision-making
