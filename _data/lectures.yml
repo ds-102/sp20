@@ -57,6 +57,7 @@
   homework: |
     - [HW 1 released](assets/hw/hw1/hw1_nosols.pdf)
     - [HW 1 tex file](assets/hw/hw1/hw1_nosols.tex)
+    - [lord.py](assets/hw/hw1/lord.py)
   discussion: |
     - [Disc 1](https://github.com/ds-102/sp20/blob/master/disc/disc01.pdf)
     - [Disc 1 Sol](https://github.com/ds-102/sp20/blob/master/disc/disc01_sol.pdf)
