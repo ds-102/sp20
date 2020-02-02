@@ -59,8 +59,8 @@
     - [HW 1 tex file](assets/hw/hw1/hw1_nosols.tex)
     - [lord.py](assets/hw/hw1/lord.py)
   discussion: |
-    - [Disc 1](https://github.com/ds-102/sp20/blob/master/disc/disc01.pdf)
-    - [Disc 1 Sol](https://github.com/ds-102/sp20/blob/master/disc/disc01_sol.pdf)
+    - [Disc 1](assets/disc/disc01/disc01.pdf)
+    - [Disc 1 Sol](assets/disc/disc01/disc01_sol.pdf)
   lab: |
     - [Lab 1](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab01/lab01.ipynb)
 
@@ -90,7 +90,7 @@
     - Lab 2
 #  slides: assets/lectures/lecture6.pdf
   discussion: |
-    - Disc 2
+    - [Disc 2](assets/disc/disc01/disc02.pdf)
 #  resources: |
 #    - [**Notes**](assets/notes/notes06.pdf)
 
