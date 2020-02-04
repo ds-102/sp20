@@ -12,7 +12,7 @@ This class is listed as [STAT 102](https://classes.berkeley.edu/content/2020-spr
 ## Important Information: 
 
 * **When:** Lectures Tuesdays and Thursdays from 9:30AM to 11:00AM
-* **Where:** [100 Lewis](https://www.berkeley.edu/map?lewis)
+* **Where:** [GPB 100](https://www.berkeley.edu/map?genetics)
 * **What:** See the [lecture schedule](syllabus)
 * **News:** We will post updates about the class on [Piazza](https://piazza.com/class/k5ofad3nps24c1)
 
