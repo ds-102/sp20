@@ -90,7 +90,7 @@
 - date: 2/6/20
   topic: Probability Interpretation of Linear and Gaussian Models
   lab: |
-    - Lab 2
+    - [Lab 2](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab02/lab02.ipynb)
 #  slides: assets/lectures/lecture6.pdf
   discussion: |
     - [Disc 2](assets/disc/disc02/disc02.pdf)
