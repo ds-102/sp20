@@ -95,8 +95,8 @@
   discussion: |
     - [Disc 2](assets/disc/disc02/disc02.pdf)
     - [Disc 2 Sol](assets/disc/disc02/disc02_sol.pdf)
-#  resources: |
-#    - [**Notes**](assets/notes/notes06.pdf)
+  resources: |
+   - [**Notes**](assets/notes/notes06.pdf)
 
 - date: 2/11/20
   topic: Probability Interpretation of Logistic Models
