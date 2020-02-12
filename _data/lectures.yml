@@ -102,7 +102,8 @@
   topic: Probability Interpretation of Logistic Models
   homework: |
     - HW 1 due
-    - HW 2 released
+    - [HW 2 released](assets/hw/hw2/hw2_nosols.pdf)
+    - [heart.csv](assets/hw/hw2/heart.csv)
 #  slides: assets/lectures/lecture7.pdf
 #  resources: |
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture07/lecture07.ipynb)
