@@ -88,7 +88,7 @@
 #    - [**Notes**](assets/notes/notes04.pdf)
 
 - date: 2/6/20
-  topic: Probability Interpretation of Linear and Gaussian Models
+  topic: Modeling and Regression
   slides: https://docs.google.com/presentation/d/1_VPJc1g4HOoM6D959oDF_S4v2TZG1BPETQ_H3aYB8XI/edit#slide=id.p
   lab: |
     - [Lab 2](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab02/lab02.ipynb)
@@ -100,7 +100,7 @@
    - [**Notes**](assets/notes/notes06.pdf)
 
 - date: 2/11/20
-  topic: Probability Interpretation of Logistic Models
+  topic: Identification Conditions for Regression
   slides: https://docs.google.com/presentation/d/1tcytr8RINiygwI41V4navV9tpniI2WGoA8-NFUz4csM/edit#slide=id.p
   homework: |
     - HW 1 due
