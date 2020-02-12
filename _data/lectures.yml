@@ -89,6 +89,7 @@
 
 - date: 2/6/20
   topic: Probability Interpretation of Linear and Gaussian Models
+  slides: https://docs.google.com/presentation/d/1_VPJc1g4HOoM6D959oDF_S4v2TZG1BPETQ_H3aYB8XI/edit#slide=id.p
   lab: |
     - [Lab 2](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab02/lab02.ipynb)
 #  slides: assets/lectures/lecture6.pdf
@@ -100,14 +101,16 @@
 
 - date: 2/11/20
   topic: Probability Interpretation of Logistic Models
+  slides: https://docs.google.com/presentation/d/1tcytr8RINiygwI41V4navV9tpniI2WGoA8-NFUz4csM/edit#slide=id.p
   homework: |
     - HW 1 due
     - [HW 2 released](assets/hw/hw2/hw02_nosols.pdf)
     - [heart.csv](assets/hw/hw2/heart.csv)
 #  slides: assets/lectures/lecture7.pdf
-#  resources: |
+  resources: |
+    - [**Notes**](assets/notes/notes07.pdf)
+
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture07/lecture07.ipynb)
-#    - [**Notes**](assets/notes/notes07.pdf)
 
 - date: 2/13/20
   topic: Bayesian Hierarchical Models I
