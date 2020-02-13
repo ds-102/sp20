@@ -114,7 +114,7 @@
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture07/lecture07.ipynb)
 
 - date: 2/13/20
-  topic: Bayesian Hierarchical Models I
+  topic: Introduction to Bayesian Modeling
 
 #  resources: |
 #    - [**Notes**](assets/notes/notes08.pdf)
@@ -126,12 +126,12 @@
     - [Lab 3](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab03/lab03.ipynb%20)
 
 - date: 2/18/20
-  topic: Bayesian Hierarchical Models II
+  topic: Bayesian Hierarchical Models I
 #  resources: |
 #    - [**Notes**](assets/notes/notes09.pdf)
 
 - date: 2/20/20
-  topic: Gibbs Sampling and Importance Sampling
+  topic: Bayesian Hierarchical Models II
 #  resources: |
 #    - [**Notes**](assets/notes/notes10.pdf)
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture10/lecture10.ipynb)
@@ -147,7 +147,7 @@
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture11/lecture11.ipynb)
 
 - date: 2/25/20
-  topic: Confidence Intervals from Chernoff/Hoeffding
+  topic: Gibbs Sampling and Importance Sampling
   homework: |
     - HW 2 due
     - HW 3 released
