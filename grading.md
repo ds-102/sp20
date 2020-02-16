@@ -12,7 +12,7 @@ There will be 7 homework assignments. Assignments will mix programming and short
 
 
 ### Slip Days
-Each student gets an extension budget of 5 slip days. You can use the extension on homework and project assignments during the semester. Do not plan to use your slip-time; it is there for unforeseen circumstances. These are rounded up, so if you are 1 minute late then 1 slip day will be used.
+Each student gets an extension budget of 5 slip days. You can use the extension on homework assignments (not lab assignments) during the semester. Do not plan to use your slip-time; it is there for unforeseen circumstances. These are rounded up, so if you are 1 minute late then 1 slip day will be used.
 
 After you have used your slip-time budget, any assignment handed in late will be marked off 20% per day late, rounded up to the nearest integer of number of days. No assignment will be accepted more than 5 days late.
 
