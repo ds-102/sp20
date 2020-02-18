@@ -57,4 +57,19 @@ However, we have listed a few optional books that will provide additional contex
 
 * **[Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)** ([Available as eBook for Berkeley students](http://proquest.safaribooksonline.com/9781449323592)).  This book provides a good reference for the Pandas library.
 
+## Reading Resources
 
+* **[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)** This “cookbook” is a handy collection of facts about linear algebra and matrices.
+* **[All of statistics book](https://www.stat.cmu.edu/~larry/all-of-statistics/)** This book is a great, broad introduction to mathematical statistics. It begins with probability concepts (e.g. Bayes’ theorem), works through many statistical inference topics (e.g. hypothesis testing, decision theory, and bootstrap, and also includes statistical modeling (e.g. regression and causal inference). The textbook as a whole covers many more ideas from statistics than will be used in or needed for this course, but students may still find it useful to reference specific topics within it to supplement ideas covered in lecture or review ideas from previous courses. For example:
+  * Chapters 1-3 review some background ideas about probability and random variables
+  * Chapter 12 discusses the statistical decision theory framework
+  * Section 9.3 reviews maximum likelihood estimation, while the first few sections of chapter 11 review the core idea behind Bayesian inference
+  * Sections 10.2, 10.6, and 10.7 cover p-values, the likelihood ratio test, and multiple testing ideas
+  * Chapter 13 covers linear and logistic regression
+  * Chapters 7-8 review empirical distributions and bootstrap
+  * Chapter 16 covers causal inference
+* **[Computer age statistical inference book](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)** This book takes a fairly modern view of statistics, often examining the influence of computation on the field. It is useful to keep in mind that the book was written with masters’ students in mind. As such, this textbook covers many topics beyond the scope of this course, but nevertheless provides useful, high-level discussion of some course topics for those students looking for additional information. For example:
+  * Chapters 2 and 3 do an excellent job of comparing and contrasting frequentist and Bayesian inference, with illustrative examples
+  * Chapter 4 discusses maximum likelihood estimation
+  * Chapter 15 provides additional details about multiple hypothesis testing and false discovery rate control
+  * There is also one section each on logistic regression, the EM algorithm, the bootstrap, conjugate priors, and Gibbs sampling
