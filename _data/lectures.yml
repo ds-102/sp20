@@ -127,8 +127,9 @@
 
 - date: 2/18/20
   topic: Bayesian Hierarchical Models I
-#  resources: |
-#    - [**Notes**](assets/notes/notes09.pdf)
+  slides: assets/lectures/lecture9.pdf
+  resources: |
+   - [**Notes**](assets/notes/notes09.pdf)
 
 - date: 2/20/20
   topic: Bayesian Hierarchical Models II
