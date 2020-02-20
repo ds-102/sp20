@@ -133,8 +133,9 @@
 
 - date: 2/20/20
   topic: Bayesian Hierarchical Models II
-#  resources: |
-#    - [**Notes**](assets/notes/notes10.pdf)
+  slides: assets/lectures/lecture10.pdf
+  resources: |
+    - [**Notes**](assets/notes/notes10.pdf)
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture10/lecture10.ipynb)
   lab: |
     - [Lab 4](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab04/lab04.ipynb%20)
