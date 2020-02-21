@@ -126,13 +126,13 @@
     - [Lab 3](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab03/lab03.ipynb%20)
 
 - date: 2/18/20
-  topic: Bayesian Hierarchical Models I
+  topic: Bayesian Hierarchical Models
   slides: assets/lectures/lecture9.pdf
   resources: |
    - [**Notes**](assets/notes/notes09.pdf)
 
 - date: 2/20/20
-  topic: Bayesian Hierarchical Models II
+  topic: Approximate Inference via Sampling I
   slides: assets/lectures/lecture10.pdf
   resources: |
     - [**Notes**](assets/notes/notes10.pdf)
@@ -147,7 +147,7 @@
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture11/lecture11.ipynb)
 
 - date: 2/25/20
-  topic: Gibbs Sampling and Importance Sampling
+  topic: Approximate Inference via Sampling II
   homework: |
     - HW 2 due
     - HW 3 released
@@ -155,7 +155,7 @@
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture12/lecture12.ipynb)
 
 - date: 2/27/20
-  topic: Confidence/Credible Intervals from Likelihood/Prior/Bootstrap
+  topic: Sampling vs. Variational Methods
   lab: |
     - Lab 5
   discussion: |
