@@ -155,11 +155,12 @@
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture12/lecture12.ipynb)
 
 - date: 2/27/20
-  topic: Sampling vs. Variational Methods
+  topic: Application of Bayesian Inference in Biology
   lab: |
     - Lab 5
   discussion: |
     - [Disc 4](assets/disc/disc04/disc04.pdf)
+    - [Disc 4 Sol](assets/disc/disc04/disc04_sol.pdf)
 
 
 - date: 3/3/20
