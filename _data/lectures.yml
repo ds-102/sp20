@@ -157,7 +157,7 @@
 - date: 2/27/20
   topic: Application of Bayesian Inference in Biology
   lab: |
-    - Lab 5
+    - [Lab 5](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab05/lab05.ipynb%20)
   discussion: |
     - [Disc 4](assets/disc/disc04/disc04.pdf)
     - [Disc 4 Sol](assets/disc/disc04/disc04_sol.pdf)
