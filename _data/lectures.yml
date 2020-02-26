@@ -184,12 +184,13 @@
     - Lab 6
   discussion: |
     - Disc 6
+  homework: |
+    - HW 3 due
 
 - date: 3/10/20
 #  slides: assets/lectures/lecture15.pdf
   topic: Rudiments of Experimental Design
   homework: |
-    - HW 3 due
     - HW 4 released
 #  resources: |
 #    - [**Notes**](assets/notes/notes15.pdf)
