@@ -148,6 +148,9 @@
 
 - date: 2/25/20
   topic: Approximate Inference via Sampling II
+  slides: assets/lectures/lecture11.pdf
+  resources: |
+    - [**Notes**](assets/notes/notes10.pdf)
   homework: |
     - HW 2 due
     - HW 3 released
