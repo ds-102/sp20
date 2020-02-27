@@ -160,6 +160,7 @@
 
 - date: 2/27/20
   topic: Application of Bayesian Inference in Biology
+  slides: assets/lectures/lecture12.pdf
   lab: |
     - [Lab 5](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab05/lab05.ipynb%20)
   discussion: |
