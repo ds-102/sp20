@@ -193,8 +193,6 @@
 - date: 3/10/20
 #  slides: assets/lectures/lecture15.pdf
   topic: Rudiments of Experimental Design
-  homework: |
-    - HW 4 released
 #  resources: |
 #    - [**Notes**](assets/notes/notes15.pdf)
 
@@ -210,6 +208,8 @@
 
 - date: 3/17/20
   topic: "Bandits: Greedy and UCB Algorithms"
+  homework: |
+    - HW 4 released
 
 - date: 3/19/20
   topic: Thompson Sampling
@@ -226,9 +226,6 @@
 
 - date: 3/31/20
   topic: Dynamic Programming and Q Learning
-  homework: |
-    - HW 4 due
-    - HW 5 released
  
 - date: 4/2/20
   topic: Introduction to LQR and Control
@@ -239,6 +236,9 @@
 
 - date: 4/7/20
   topic: Economics
+  homework: |
+    - HW 4 due
+    - HW 5 released
 
 - date: 4/9/20
 #  slides: assets/lectures/lecture21.pdf
@@ -250,9 +250,7 @@
 
 - date: 4/14/20
   topic: "Nonparametric Methods II: Neural Nets"
-  homework: |
-    - HW 5 due
-    - HW 6 released
+
 
 - date: 4/16/20
   topic: Generalization, Robustness, and Distribution Shift
@@ -266,6 +264,9 @@
 #  resources: |
 #    - [**Notes**](assets/notes/notes23.pdf)
   topic: Privacy attacks and randomized response
+  homework: |
+    - HW 5 due
+    - HW 6 released
 
 
 - date: 4/23/20
@@ -277,11 +278,12 @@
 
 - date: 4/28/20
   topic: Real-World Consequences of Decisions
-  homework: |
-    - HW 6 due
+
 
 - date: 4/30/20
   topic: TBD
+  homework: |
+    - HW 6 due
 
 - date: 5/5/20
   topic: RRR week

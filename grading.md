@@ -3,7 +3,7 @@ layout: page
 title: "Grading"
 ---
 
-There will be 7 homework assignments. Assignments will mix programming and short answer questions. Lab assignments will be graded on completion and correctness, but all test cases will be public. Your two lowest labs will be dropped.
+There will be 6 homework assignments. Assignments will mix programming and short answer questions. Lab assignments will be graded on completion and correctness, but all test cases will be public. Your two lowest labs will be dropped.
 
 40% homeworks and labs (25% homework, 15% labs)
 25% Midterm
