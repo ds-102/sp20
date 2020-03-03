@@ -176,7 +176,9 @@
 #  discussion: |
 #    - [Practice Midterm 2](assets/midterm_practice_2.pdf)
   topic: Causal Inference I
-#  resources: |
+  slides: assets/lectures/lecture13/lecture13.pdf
+ resources: |
+    - [**Causal Inference Background Chapter**](assets/lectures/lecture13/causal.pdf)
 #    - [**Notes**](assets/notes/notes13.pdf)
 
 - date: 3/5/20
