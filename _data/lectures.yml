@@ -186,7 +186,7 @@
 #    - [**Notes**](assets/notes/notes14.pdf)
   topic: Causal Inference II
   lab: |
-    - Lab 6
+    - [Lab 6](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab06/lab06.ipynb)
   discussion: |
     - [Disc 5](assets/disc/disc05/disc05.pdf)
     - [Disc 5 Sol](assets/disc/disc05/disc05_sol.pdf)
