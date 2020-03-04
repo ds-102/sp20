@@ -178,8 +178,8 @@
   topic: Causal Inference I
   slides: assets/lectures/lecture13/lecture13.pdf
   resources: |
+    - [**Notes**](assets/notes/notes13.pdf)
     - [**Causal Inference Background Chapter**](assets/lectures/lecture13/causal.pdf)
-#    - [**Notes**](assets/notes/notes13.pdf)
 
 - date: 3/5/20
 #  resources: |
