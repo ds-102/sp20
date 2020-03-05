@@ -182,8 +182,8 @@
     - [**Causal Inference Background Chapter**](assets/lectures/lecture13/causal.pdf)
 
 - date: 3/5/20
-#  resources: |
-#    - [**Notes**](assets/notes/notes14.pdf)
+ resources: |
+    - [**Notes**](assets/notes/notes14.pdf)
   topic: Causal Inference II
   lab: |
     - [Lab 6](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab06/lab06.ipynb)
