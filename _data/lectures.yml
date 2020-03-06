@@ -182,6 +182,7 @@
     - [**Causal Inference Background Chapter**](assets/lectures/lecture13/causal.pdf)
 
 - date: 3/5/20
+  slides: assets/lectures/lecture14.pdf
   resources: |
     - [**Notes**](assets/notes/notes14.pdf)
   topic: Causal Inference II
