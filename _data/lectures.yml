@@ -195,10 +195,10 @@
     - HW 3 due
 
 - date: 3/10/20
-#  slides: assets/lectures/lecture15.pdf
+  slides: assets/lectures/lecture15.pdf
   topic: Rudiments of Experimental Design
-#  resources: |
-#    - [**Notes**](assets/notes/notes15.pdf)
+  resources: |
+   - [**Notes**](assets/notes/notes15.pdf)
 
 - date: 3/12/20
 #  slides: assets/lectures/lecture16.pdf
