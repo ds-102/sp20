@@ -205,10 +205,8 @@
   topic: Midterm
 #  resources: |
 #    - [**Notes**](assets/notes/notes16.pdf)
-  lab: |
-    - Lab 7
   discussion: |
-    - Disc 7
+    - Midterm Review
 
 - date: 3/17/20
   topic: "Bandits: Greedy and UCB Algorithms"
@@ -220,7 +218,7 @@
   lab: |
     - Lab 8
   discussion: |
-    - Disc 8
+    - [Disc 6](assets/disc/disc06/disc06.pdf)
 
 - date: 3/23/20
   topic: Spring Break
