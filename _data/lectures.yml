@@ -210,8 +210,11 @@
 
 - date: 3/17/20
   topic: "Bandits: Greedy and UCB Algorithms"
+  slides: assets/lectures/lecture17.pdf
   homework: |
     - HW 4 released
+  resources: |
+    - [**Notes**](assets/notes/notes17.pdf)
 
 - date: 3/19/20
   topic: Thompson Sampling
