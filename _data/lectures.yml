@@ -212,7 +212,9 @@
   topic: "Bandits: Greedy and UCB Algorithms"
   slides: assets/lectures/lecture17.pdf
   homework: |
-    - HW 4 released (Wed 3/18 evening)
+    - [HW 4 released](assets/hw/hw4/hw4_nosols.pdf)
+    - [HW 4 tex file](assets/hw/hw4/hw4_nosols.tex)
+    - [ihdp.csv](assets/hw/hw4/ihdp.csv)
   resources: |
     - [**Notes**](assets/notes/notes17.pdf)
 
