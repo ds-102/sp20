@@ -5,14 +5,16 @@
 
 \usepackage{graphicx}
 \usepackage{listings}
-\usepackage{amsmath,amssymb,amsthm,bm}
+\usepackage{amsmath,amssymb,amsthm,bm,bbm}
 \usepackage{latexsym,color,minipage-marginpar,caption,multirow,verbatim, varwidth}
 \usepackage{enumerate}
-\usepackage{preamble}
 \usepackage[algo2e]{algorithm2e}
 \usepackage{tikz}
 
-\newcommand{\js}[1]{{\color{blue} [JS: #1]}}
+\DeclareMathOperator*{\argmax}{arg\,max}
+\usepackage{hyperref}
+\usepackage{algorithm}
+
 \newcommand{\doop}{\mathbf{do}}
 
 \begin{document}
@@ -77,7 +79,7 @@ In practice, we don't know $e(z)$, but we can estimate it by fitting a logistic 
 which we call the \textit{inverse propensity score weighted estimator} (IPSWE).
 
 \begin{parts}
-\part[10] Show that $\mathbb{E}[Y \mid \mathbf{do}(X := 0)] = \E [ \frac{Y(1 - X)}{1 - e(Z)} ]$. (Hint: follow the derivation of $\mathbb{E}[Y \mid \mathbf{do}(X := 1)] = \mathbb{E}[\frac{YX}{e(Z)}]$ in Lecture 14 Section 14.3, modifying as necessary to model $\mathbf{do}(X := 0)$ instead of $\mathbf{do}(X := 1)$.)
+\part[10] Show that $\mathbb{E}[Y \mid \mathbf{do}(X := 0)] = \mathbb{E} [ \frac{Y(1 - X)}{1 - e(Z)} ]$. (Hint: follow the derivation of $\mathbb{E}[Y \mid \mathbf{do}(X := 1)] = \mathbb{E}[\frac{YX}{e(Z)}]$ in Lecture 14 Section 14.3, modifying as necessary to model $\mathbf{do}(X := 0)$ instead of $\mathbf{do}(X := 1)$.)
 
 \part[5] Write an IPSWE for $\mathbb{E}[Y \mid \mathbf{do}(X := 0)]$ that uses an estimated $\hat{e}(z) \approx e(z)$, analogous to the IPSWE of $\mathbb{E}[Y \mid \mathbf{do}(X := 1)]$.
 
