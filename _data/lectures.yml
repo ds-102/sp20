@@ -242,7 +242,7 @@
 - date: 4/2/20
   topic: Time Series Modeling
   lab: |
-    - Lab 9
+    - [Lab 8](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab08/lab08.ipynb%20)
   discussion: |
     - [Disc 7](assets/disc/disc07/disc07.pdf)
     - [Disc 7 Sol](assets/disc/disc07/disc07_sol.pdf)
