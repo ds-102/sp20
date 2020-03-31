@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib
-matplotlib.use('Qt5Agg') 
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 import seaborn as sns
