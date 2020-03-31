@@ -234,6 +234,10 @@
 
 - date: 3/31/20
   topic: Dynamic Programming and Q Learning
+  resources: |
+    - [**Notes**](assets/notes/notes21.pdf)
+    - [**iPython notebook**](assets/lectures/lecture21.ipynb)
+
  
 - date: 4/2/20
   topic: Introduction to LQR and Control
