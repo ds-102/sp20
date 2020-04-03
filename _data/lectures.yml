@@ -241,11 +241,15 @@
  
 - date: 4/2/20
   topic: Time Series Modeling
+  slides: https://docs.google.com/presentation/d/14HxPdK3WstK5IxeQJ3x5ORd3u567ejqvDKivhlZvlA0/edit
   lab: |
     - [Lab 8](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab08/lab08.ipynb%20)
   discussion: |
     - [Disc 7](assets/disc/disc07/disc07.pdf)
     - [Disc 7 Sol](assets/disc/disc07/disc07_sol.pdf)
+  resources: |
+    - [**Zoom Recording**](https://berkeley.zoom.us/rec/play/vpB7I-yvq2g3GYHGtASDAf8rW9W8ePqshiUXq_YKnk63VXcGM1D3YroUZLB5ihRKPOrQGjdc6S81G0Ux?continueMode=true&_x_zm_rtaid=y06pB5ARTZKxAvZztSBHuA.1585861354169.14b95191993f15890c2fde3b517202bf&_x_zm_rhtaid=710)
+    - [**Notes**](assets/notes/notes22.pdf)
 
 - date: 4/7/20
   topic: Economics
