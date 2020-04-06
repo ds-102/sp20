@@ -262,7 +262,8 @@
   lab: |
     - Lab 10
   discussion: |
-    - Disc 10
+    - [Disc 8](assets/disc/disc08/disc08.pdf)
+    - [Disc 8 Sol](assets/disc/disc08/disc08_sol.pdf)
 
 - date: 4/14/20
   topic: "Nonparametric Methods II: Neural Nets"
