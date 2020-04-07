@@ -251,10 +251,12 @@
     - [**Notes**](assets/notes/notes22.pdf)
 
 - date: 4/7/20
-  topic: Economics
+  topic: Introduction to Reinforcement Learning
   homework: |
     - HW 4 due
     - HW 5 released
+  resources: |
+    - [**Notes**](assets/notes/notes23.pdf)
 
 - date: 4/9/20
 #  slides: assets/lectures/lecture21.pdf
