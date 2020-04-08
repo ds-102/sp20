@@ -254,7 +254,9 @@
   topic: Introduction to Reinforcement Learning
   homework: |
     - HW 4 due
-    - HW 5 released
+    - [HW 5 released](assets/hw/hw5/hw5_nosols.pdf)
+    - [bioequivalence.csv](assets/hw/hw5/bioequivalence.csv)
+
   resources: |
     - [**Notes**](assets/notes/notes23.pdf)
 
