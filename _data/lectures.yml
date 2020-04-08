@@ -262,7 +262,7 @@
 #  slides: assets/lectures/lecture21.pdf
   topic: "Nonparametric Methods I: Overview"
   lab: |
-    - Lab 10
+    - [Lab 9](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab09/lab09.ipynb%20)
   discussion: |
     - [Disc 8](assets/disc/disc08/disc08.pdf)
     - [Disc 8 Sol](assets/disc/disc08/disc08_sol.pdf)
