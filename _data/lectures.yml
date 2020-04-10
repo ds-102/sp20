@@ -263,19 +263,21 @@
 
 - date: 4/9/20
 #  slides: assets/lectures/lecture21.pdf
-  topic: "Nonparametric Methods I: Overview"
+  topic: "Q-Learning and Function Approximation"
   lab: |
     - [Lab 9](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab09/lab09.ipynb%20)
   discussion: |
     - [Disc 8](assets/disc/disc08/disc08.pdf)
     - [Disc 8 Sol](assets/disc/disc08/disc08_sol.pdf)
+  resources: |
+    - [**Notes**](assets/notes/notes24.pdf)
 
 - date: 4/14/20
-  topic: "Nonparametric Methods II: Neural Nets"
+  topic: "Bootstrap"
 
 
 - date: 4/16/20
-  topic: Generalization, Robustness, and Distribution Shift
+  topic: "Neural Nets"
   lab: |
     - Lab 11
   discussion: |
@@ -285,25 +287,25 @@
 #  slides: assets/lectures/lecture23.pdf
 #  resources: |
 #    - [**Notes**](assets/notes/notes23.pdf)
-  topic: Privacy attacks and randomized response
+  topic: "Robustness and Distribution Shift"
   homework: |
     - HW 5 due
     - HW 6 released
 
 
 - date: 4/23/20
-  topic: Differential Privacy
+  topic: "Privacy I"
   lab: |
     - Lab 12
   discussion: |
     - Disc 12
 
 - date: 4/28/20
-  topic: Real-World Consequences of Decisions
+  topic: "Privacy II"
 
 
 - date: 4/30/20
-  topic: TBD
+  topic: Real-World Consequences of Decisions
   homework: |
     - HW 6 due
 
