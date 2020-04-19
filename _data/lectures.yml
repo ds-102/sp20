@@ -304,7 +304,8 @@
   lab: |
     - Lab 12
   discussion: |
-    - Disc 12
+    - [Disc 10](assets/disc/disc10/disc10.pdf)
+    - [Disc 10 Sol](assets/disc/disc10/disc10_sol.pdf)
 
 - date: 4/28/20
   topic: "Privacy II"
