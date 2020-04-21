@@ -293,6 +293,7 @@
   slides: assets/lectures/lecture27/lect27.pdf
   resources: |
     - [**Lecture 27 B slides**](assets/lectures/lecture27/lect27b.pdf)
+    - [**Notes**](assets/notes/notes27.pdf)
   topic: "Robustness and Distribution Shift"
   homework: |
     - HW 5 due
