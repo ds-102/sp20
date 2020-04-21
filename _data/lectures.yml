@@ -290,9 +290,9 @@
     - [**bootstrap.ipynb**](assets/lectures/bootstrap.ipynb)
 
 - date: 4/21/20
-#  slides: assets/lectures/lecture23.pdf
-#  resources: |
-#    - [**Notes**](assets/notes/notes23.pdf)
+  slides: assets/lectures/lecture27/lect27.pdf
+  resources: |
+    - [**Lecture 27 B slides**](assets/lectures/lecture27/lect27b.pdf)
   topic: "Robustness and Distribution Shift"
   homework: |
     - HW 5 due
