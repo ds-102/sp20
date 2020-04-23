@@ -302,12 +302,15 @@
 
 
 - date: 4/23/20
+  slides: https://ds-102.github.io/fa19/assets/lectures/lecture23.pdf
   topic: "Privacy I"
   lab: |
     - [Lab 11](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab11/lab11.ipynb)
   discussion: |
     - [Disc 10](assets/disc/disc10/disc10.pdf)
     - [Disc 10 Sol](assets/disc/disc10/disc10_sol.pdf)
+  resources: |
+    - [**Notes**](assets/notes/notes28.pdf)
 
 - date: 4/28/20
   topic: "Privacy II"
