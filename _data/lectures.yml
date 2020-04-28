@@ -322,6 +322,8 @@
   topic: Real-World Consequences of Decisions
   homework: |
     - HW 6 due
+  lab: |
+    - [Lab 12](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab12/lab12.ipynb)
   discussion: |
     - [Disc 11](assets/disc/disc11/disc11.pdf)
     - [Disc 11 Sol](assets/disc/disc11/disc11_sol.pdf)
