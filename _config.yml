@@ -18,7 +18,7 @@ highlighter: rouge
 title: Data 102 Sp 20
 tagline: Principles and Techniques of Data Science
 
-baseurl: /
+baseurl: '/sp20'
 
 sass:
   style: compressed
