@@ -27,7 +27,7 @@
 # for d in days[(days.dayofweek == 1) | (days.dayofweek == 3)]:
 #     print(str(d.month) + "/" + str(d.day) + "/" + str(d.year))
 
-- date: 1/21/20
+- date: 8/27/20
   topic: Course Overview, Making Decisions Under Uncertainty
   description: In this lecture we provide an overview of data science and where it might head in the future.
     We discuss the importance of decision making rather than simple inference. As a first step in this direction we
@@ -39,7 +39,7 @@
     - Discussion by nine commentators [1](https://hdsr.mitpress.mit.edu/pub/djb16hzl?readingCollection=72befc2a), [2](https://hdsr.mitpress.mit.edu/pub/kyzf7fjv?readingCollection=72befc2a), [3](https://hdsr.mitpress.mit.edu/pub/rim3pvdw?readingCollection=72befc2a), [4](https://hdsr.mitpress.mit.edu/pub/pqddq8u5?readingCollection=72befc2a), [5](https://hdsr.mitpress.mit.edu/pub/wiq01ru6?readingCollection=72befc2a), [6](https://hdsr.mitpress.mit.edu/pub/pjebp7io?readingCollection=72befc2a), [7](https://hdsr.mitpress.mit.edu/pub/plto69bh?readingCollection=72befc2a)
     - [Dr. AI or: How I Learned to Stop Worrying and Love Economics](https://hdsr.mitpress.mit.edu/pub/2imtstfu?readingCollection=72befc2a)
 
-- date: 1/23/20
+- date: 9/1/20
   topic: Review of Frequentist and Bayesian Decision-Making
   description: In this lecture we continue investigating the intricacies that arise when running a simple hypothesis test.
     We look at the difference between the frequentist and the Bayesian view of hypothesis testing. We further develop these ideas by
@@ -50,7 +50,7 @@
 #  discussion: |
 #    - [Disc1](https://github.com/ds-102/fa19/blob/master/disc/disc01.pdf)
 
-- date: 1/28/20
+- date: 9/3/20
   topic: Neyman-Pearson Lemma
   resources: |
     - [**Notes**](assets/notes/notes03.pdf)
@@ -64,7 +64,7 @@
   lab: |
     - [Lab 1](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab01/lab01.ipynb)
 
-- date: 1/30/20
+- date: 9/8/20
   topic: False Discovery Rate Control
   slides: assets/lectures/lecture4.pdf
 #  resources: |
@@ -78,7 +78,7 @@
     - [**Notes**](assets/notes/notes04.pdf)
     - [**Optional Notes**](assets/notes/notes_online_FDR.pdf)
 
-- date: 2/4/20
+- date: 9/10/20
   topic: Fairness in decision-making
   slides: https://docs.google.com/presentation/d/16U2-pEk7koH-GbjVgt7XTPUnWWWJURTRddCXpz-GIkc/edit?usp=sharing
   resources: |
@@ -87,7 +87,7 @@
 #  resources: |
 #    - [**Notes**](assets/notes/notes04.pdf)
 
-- date: 2/6/20
+- date: 9/15/20
   topic: Modeling and Regression
   slides: https://docs.google.com/presentation/d/1_VPJc1g4HOoM6D959oDF_S4v2TZG1BPETQ_H3aYB8XI/edit#slide=id.p
   lab: |
@@ -99,7 +99,7 @@
   resources: |
    - [**Notes**](assets/notes/notes06.pdf)
 
-- date: 2/11/20
+- date: 9/17/20
   topic: Identification Conditions for Regression
   slides: https://docs.google.com/presentation/d/1tcytr8RINiygwI41V4navV9tpniI2WGoA8-NFUz4csM/edit#slide=id.p
   homework: |
@@ -113,7 +113,7 @@
 
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture07/lecture07.ipynb)
 
-- date: 2/13/20
+- date: 9/22/20
   topic: Introduction to Bayesian Modeling
   resources: |
    - [**Notes**](assets/notes/notes08.pdf)
@@ -125,13 +125,13 @@
   lab: |
     - [Lab 3](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab03/lab03.ipynb%20)
 
-- date: 2/18/20
+- date: 9/24/20
   topic: Bayesian Hierarchical Models
   slides: assets/lectures/lecture9.pdf
   resources: |
    - [**Notes**](assets/notes/notes09.pdf)
 
-- date: 2/20/20
+- date: 9/29/20
   topic: Approximate Inference via Sampling I
   slides: assets/lectures/lecture10.pdf
   resources: |
@@ -146,7 +146,7 @@
 #  resources: |
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture11/lecture11.ipynb)
 
-- date: 2/25/20
+- date: 10/1/20
   topic: Approximate Inference via Sampling II
   slides: assets/lectures/lecture11.pdf
   resources: |
@@ -158,7 +158,7 @@
 #  resources: |
 #    - [**iPython notebook**](https://github.com/ds-102/fa19/blob/master/lectures/lecture12/lecture12.ipynb)
 
-- date: 2/27/20
+- date: 10/6/20
   topic: Application of Bayesian Inference in Biology
   slides: assets/lectures/lecture12.pdf
   lab: |
@@ -170,7 +170,7 @@
     - [**Notes**](assets/notes/notes12.pdf)
 
 
-- date: 3/3/20
+- date: 10/8/20
 #  lab: |
 #    - [Practice Midterm 1](assets/midterm_practice.pdf)
 #  discussion: |
@@ -181,7 +181,7 @@
     - [**Notes**](assets/notes/notes13.pdf)
     - [**Causal Inference Background Chapter**](assets/lectures/lecture13/causal.pdf)
 
-- date: 3/5/20
+- date: 10/13/20
   slides: assets/lectures/lecture14.pdf
   resources: |
     - [**Notes**](assets/notes/notes14.pdf)
@@ -194,13 +194,13 @@
   homework: |
     - HW 3 due
 
-- date: 3/10/20
+- date: 10/15/20
   slides: assets/lectures/lecture15.pdf
   topic: Rudiments of Experimental Design
   resources: |
    - [**Notes**](assets/notes/notes15.pdf)
 
-- date: 3/12/20
+- date: 10/20/20
 #  slides: assets/lectures/lecture16.pdf
   topic: Midterm
 #  resources: |
@@ -208,7 +208,7 @@
   discussion: |
     - Midterm Review
 
-- date: 3/17/20
+- date: 10/22/20
   topic: "Bandits: Greedy and UCB Algorithms"
   slides: assets/lectures/lecture17.pdf
   homework: |
@@ -218,7 +218,7 @@
   resources: |
     - [**Notes**](assets/notes/notes17.pdf)
 
-- date: 3/19/20
+- date: 10/27/20
   topic: No Lecture
   lab: |
     - [Lab 7](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab07/lab07.ipynb%20)
@@ -226,20 +226,13 @@
     - [Disc 6](assets/disc/disc06/disc06.pdf)
     - [Disc 6 Sol](assets/disc/disc06/disc06_sol.pdf)
 
-- date: 3/23/20
-  topic: Spring Break
-
-- date: 3/25/20
-  topic: Spring Break
-
-- date: 3/31/20
+- date: 10/29/20
   topic: "Bandits: Thompson Sampling"
   resources: |
     - [**Notes**](assets/notes/notes21.pdf)
     - [**iPython notebook**](assets/lectures/lecture21.ipynb)
 
- 
-- date: 4/2/20
+- date: 11/3/20
   topic: Time Series Modeling
   slides: https://docs.google.com/presentation/d/14HxPdK3WstK5IxeQJ3x5ORd3u567ejqvDKivhlZvlA0/edit
   lab: |
@@ -250,7 +243,7 @@
   resources: |
     - [**Notes**](assets/notes/notes22.pdf)
 
-- date: 4/7/20
+- date: 11/5/20
   topic: Introduction to Reinforcement Learning
   homework: |
     - HW 4 due
@@ -261,7 +254,8 @@
   resources: |
     - [**Notes**](assets/notes/notes23.pdf)
 
-- date: 4/9/20
+ 
+- date: 11/10/20
 #  slides: assets/lectures/lecture21.pdf
   topic: "Q-Learning and Function Approximation"
   lab: |
@@ -271,14 +265,15 @@
     - [Disc 8 Sol](assets/disc/disc08/disc08_sol.pdf)
   resources: |
     - [**Notes**](assets/notes/notes24.pdf)
+  
 
-- date: 4/14/20
+- date: 11/12/20
   topic: "Neural Nets"
-  resources: |
-    - [**Notes**](assets/notes/notes25.pdf)
+    resources: |
+      - [**Notes**](assets/notes/notes25.pdf)
+  
 
-
-- date: 4/16/20
+- date: 11/17/20
   topic: "Bootstrap"
   lab: |
     - [Lab 10](http://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/ds-102/sp20&branch=master&subPath=lab/lab10/lab10.ipynb%20)
@@ -289,7 +284,8 @@
     - [**Notes**](assets/notes/notes26.pdf)
     - [**bootstrap.ipynb**](assets/lectures/bootstrap.ipynb)
 
-- date: 4/21/20
+
+- date: 11/19/20
   slides: assets/lectures/lecture27/lect27.pdf
   resources: |
     - [**Lecture 27 B slides**](assets/lectures/lecture27/lect27b.pdf)
@@ -301,7 +297,7 @@
     - [hw6_nosols.tex](assets/hw/hw6/hw6_nosols.tex)
 
 
-- date: 4/23/20
+- date: 11/24/20
   slides: https://ds-102.github.io/fa19/assets/lectures/lecture23.pdf
   topic: "Privacy I"
   lab: |
@@ -311,14 +307,19 @@
     - [Disc 10 Sol](assets/disc/disc10/disc10_sol.pdf)
   resources: |
     - [**Notes**](assets/notes/notes28.pdf)
+  
 
-- date: 4/28/20
+- date: 11/26/20
+  topic: "Thanksgiving Break"
+
+
+- date: 12/1/20
   topic: "Privacy II"
   resources: |
     - [**Notes**](assets/notes/notes29.pdf)
+  
 
-
-- date: 4/30/20
+- date: 12/3/20
   topic: Real-World Consequences of Decisions
   homework: |
     - HW 6 due
@@ -328,12 +329,14 @@
     - [Disc 11](assets/disc/disc11/disc11.pdf)
     - [Disc 11 Sol](assets/disc/disc11/disc11_sol.pdf)
 
-- date: 5/5/20
+
+- date: 12/8/20
+  topic: RRR week
+  
+
+- date: 12/10/20
   topic: RRR week
 
-- date: 5/7/20
-  topic: RRR week
-
-- date: 5/13/20
+- date: 12/15/20
   topic: Final Exam
 
